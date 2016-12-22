@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/vvdnlt307/Android/OLDSYSTEM/Exercises/mcom/UdemyCourseList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/vvdnlt307/Android/OLDSYSTEM/Exercises/mcom/UdemyCourseList/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_f8389453a62872bdb451e8a2aab6a7a4699a0265.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vvdnlt307/Android/OLDSYSTEM/Exercises/mcom/UdemyCourseList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/vvdnlt307/Android/OLDSYSTEM/Exercises/mcom/UdemyCourseList/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_d931c64abf161bf520cbbc1a5d22f47ca9a30763.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vvdnlt307/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/home/vvdnlt307/Android/OLDSYSTEM/Exercises/mcom/UdemyCourseList/app/build/intermediates/pre-dexed/debug/library-1.0.19_f10916f6b7e3d455683e71a2141dc50de1cf8895.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vvdnlt307/Android/OLDSYSTEM/Exercises/mcom/UdemyCourseList/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/vvdnlt307/Android/OLDSYSTEM/Exercises/mcom/UdemyCourseList/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_6baee8a5d99a725d1d126f0b26ca69480e3ed6a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vvdnlt307/Android/Sdk/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/vvdnlt307/Android/OLDSYSTEM/Exercises/mcom/UdemyCourseList/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_07f5adeafc8f1155cdda5e1eef2656d5d88be515.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vvdnlt307/Android/OLDSYSTEM/Exercises/mcom/UdemyCourseList/httpclient-4.2.5/httpclient-4.2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="666e26e76f2e87d84e4f16acb546481ae1b8e9a6">
+        <dex dex="/home/vvdnlt307/Android/OLDSYSTEM/Exercises/mcom/UdemyCourseList/app/build/intermediates/pre-dexed/debug/httpclient-4.2.5_54ae4b772f599876112e18288652212fcbf5412d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vvdnlt307/Android/OLDSYSTEM/Exercises/mcom/UdemyCourseList/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/vvdnlt307/Android/OLDSYSTEM/Exercises/mcom/UdemyCourseList/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_f64976fa1c77b5852f4ea70037b64e3cd0242927.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vvdnlt307/Android/OLDSYSTEM/Exercises/mcom/UdemyCourseList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/vvdnlt307/Android/OLDSYSTEM/Exercises/mcom/UdemyCourseList/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_a4b5e26decf3cf74a542bd064cb8fa8089a5a4f7.jar" />
+    </item>
+
+</items>

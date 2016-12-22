@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UdemyCourseList</string>
+    <string name="channel_id">Channel id</string>
+    <string name="course_id">Course Id</string>
+</resources>
