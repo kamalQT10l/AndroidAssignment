@@ -139,4 +139,39 @@ public class MainActivity extends Activity
             }
         }
     }
+
+    //=============================Newly Added========================================//
+    private WebAPIResponseListener GetCCourseAPIResponseListener()
+    {
+
+        WebAPIResponseListener webAPIResponseListener =new WebAPIResponseListener()
+        {
+            @Override
+            public void onSuccessResponse(Object... arguments) {
+                try {
+                    JSONObject mSuccessResponse = (JSONObject) arguments[0];
+                    JSONArray mSuccessArray = mSuccessResponse.getJSONArray(GlobalKeys.RESPONSE_RESULT);
+                    mCourseAdapter.addUpdateDataIntoList(mSuccessArray);
+                    mListView.setAdapter(mCourseAdapter);
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+            }
+
+            @Override
+            public void onFailResponse(Object... arguments) {
+
+            }
+
+            @Override
+            public void onOfflineResponse(Object... arguments) {
+
+            }
+        };
+
+        return webAPIResponseListener;
+
+    }
+
+
 }
